@@ -1,0 +1,1 @@
+<h1 class="text-black text-center bottom-0 mt-10 opacity-50">Built with boredome by <a href="https://mahathaan.com" class="underline text-[#FE4806]">Mahathaan.</a></h1>
