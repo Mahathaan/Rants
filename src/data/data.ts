@@ -28,5 +28,5 @@ export const writes: Write[] = [
 	{
 		text: 'If you are not embarrassed by the first version of your product, you’ve launched too late.'
 	},
-	{ text: 'Add Your Quote Here' }
+	{ text: 'Add Your Text Here' }
 ];
